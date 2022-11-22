@@ -1,4 +1,4 @@
-package com.lys.aapay;
+package com.per.aapay;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
